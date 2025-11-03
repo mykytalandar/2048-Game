@@ -36,3 +36,25 @@ There is no Figma design for this project — the interface was built from scrat
 - Keyboard controls for intuitive gameplay
 
 - Score tracking
+
+## How to Run the Project Locally
+
+Follow these steps to clone and run the game on your machine:
+
+- Clone the repository
+git clone https://github.com/mykytalandar/2048-Game.git
+
+- Navigate into the project folder
+cd 2048
+
+- Install dependencies
+npm install
+
+- Run the project
+npm run dev
+
+
+Otherwise, you can simply open the index.html file directly in your browser.
+
+**Node.js version**
+Make sure you have Node.js v18.17.0 or higher installed.
